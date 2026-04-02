@@ -357,7 +357,7 @@ Mohon jangan menggunakan alat ini pada perangkat orang lain tanpa izin mereka.
 
 </a>
 
-Like Share Comment And Subscribe
+# Like Share Comment And Subscribe
 
 <h2 align="center">
 
