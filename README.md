@@ -371,8 +371,8 @@ pkg install nmap
 If you like my work you can support me via :
 
 <a href="https://paypal.me/kiplymacho" target="_blank"> <kbd> <img
-        src="https://github.com/kiplymacho/AzeemIdrisi/blob/main/docs/paypal-button-blue.png" alt="PayPal"
-        width="147"></a> <a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img src="https://github.com/shopeebjm/shopeebjm/blob/main/docs/default-yellow.png" alt="Buy Me A Coffee" width="200"></a>
+        src="https://github.com/shopeebjm/shopeebjm/blob/main/docs/paypal-button-blue.png" alt="PayPal"
+        width="147"></a> <a href="https://www.buymeacoffee.com/shopeebjm" target="_blank"> <kbd> <img src="https://github.com/shopeebjm/shopeebjm/blob/main/docs/default-yellow.png" alt="Buy Me A Coffee" width="200"></a>
 
 <hr>
 
