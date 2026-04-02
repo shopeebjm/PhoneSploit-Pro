@@ -3,7 +3,7 @@
 
     Script : PhoneSploit Pro - All in One Android Hacking ADB Toolkit  
 
-    Copyright (C) 2023  Mohd Azeem (github.com/AzeemIdrisi)
+    Copyright (C) 2026  shopeebjm (github.com/shopeebjm)
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
@@ -1758,5 +1758,5 @@ if run_phonesploit_pro:
 
 
 """
-Copyright © 2023 Mohd Azeem (github.com/AzeemIdrisi)
+Copyright © 2026 shopeebjm (github.com/shopeebjm)
 """
