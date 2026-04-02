@@ -364,16 +364,16 @@ pkg install nmap
 </a>
 
 
-**Azeem Idrisi** - [@AzeemIdrisi](https://github.com/azeemidrisi/)
+**shopeebjm** - [@shopeebjm](https://github.com/shopeebjm/)
  
 
 # Support Me
 If you like my work you can support me via :
 
-<a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
-        src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/paypal-button-blue.png" alt="PayPal"
-        width="147"></a> <a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/default-yellow.png" alt="Buy Me A Coffee" width="200"></a>
+<a href="https://paypal.me/kiplymacho" target="_blank"> <kbd> <img
+        src="https://github.com/kiplymacho/AzeemIdrisi/blob/main/docs/paypal-button-blue.png" alt="PayPal"
+        width="147"></a> <a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img src="https://github.com/shopeebjm/shopeebjm/blob/main/docs/default-yellow.png" alt="Buy Me A Coffee" width="200"></a>
 
 <hr>
 
-Copyright © 2024 Mohd Azeem (github.com/AzeemIdrisi)
+Copyright © 2026 By shopeebjm (github.com/shopeebjm)
