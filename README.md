@@ -390,8 +390,8 @@ Mohon jangan menggunakan alat ini pada perangkat orang lain tanpa izin mereka.
 
 <hr>
 
-# Copyright© 2026 By:
+# Copyright© 2026
 
 <h2 align="center">
   
-[![shopee](https://img.shields.io/badge/shopee-80%2B-yellow.svg?style=flat)](http://shopee.co.id/infinixnote40bjm)
+[![shopee](https://img.shields.io/badge/shopee-127%2B-orange.svg?style=flat)](http://shopee.co.id/infinixnote40bjm)
