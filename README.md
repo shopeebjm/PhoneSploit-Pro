@@ -390,4 +390,5 @@ Mohon jangan menggunakan alat ini pada perangkat orang lain tanpa izin mereka.
 
 <hr>
 
-Copyright © 2026 By shopeebjm (github.com/shopeebjm)
+# Copyright © 2026 By shopeebjm
+[![shopee](https://img.shields.io/badge/shopee-80%2B-yellow.svg?style=flat)](http://shopee.co.id/infinixnote40bjm)
