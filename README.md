@@ -117,11 +117,11 @@ __PhoneSploit Pro__ does not need any installation and runs directly using `pyth
 
 #### On Linux / macOS :
 
-Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
+Make sure all the [required](https://github.com/shopeebjm/PhoneSploit-Pro#requirements) software are installed.
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/shopeebjm/PhoneSploit-Pro
 ```
 ```
 cd PhoneSploit-Pro/
@@ -134,7 +134,7 @@ python3 phonesploitpro.py
 ```
 #### On Windows :
 
-Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
+Make sure all the [required](https://github.com/shopeebjm/PhoneSploit-Pro#requirements) software are installed.
 
 
 Open terminal and paste the following commands : 
