@@ -390,7 +390,7 @@ Mohon jangan menggunakan alat ini pada perangkat orang lain tanpa izin mereka.
 
 <hr>
 
-# Copyright© 2026 By [![shopeebjm])
+# Copyright© 2026 By:
 
 <h2 align="center">
   
